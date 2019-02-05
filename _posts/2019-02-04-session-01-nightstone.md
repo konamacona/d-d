@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Session 01: Nightstone
+title: Session 01 - Nightstone
 ---
 
 Gelvira, Cretin, and Lustrum came to Nightstone for goblins, goblins, and an ancient tome. They met at the entrance of the seemingly deserted town as the town’s temple bell rang on and on. The investigated, killing the goblins ringing it. As they look around the town it is indeed deserted, with large stones littering the landscape, even having collapsed or holed many buildings. They also note a large 5ftx5ftx5ft hole in the centre of town.
