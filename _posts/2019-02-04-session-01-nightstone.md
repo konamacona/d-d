@@ -1,7 +1,25 @@
 ---
 layout: post
 title: Session 01 - Nightstone
+published: true
 ---
+We played the first session of the new campaign tonight
+
+## Decrees
+
+### Revised Ranger
+
+Cretin is a [Revised Ranger](https://media.wizards.com/2016/dnd/downloads/UA_RevisedRanger.pdf) with everything that comes with that.
+
+### Druid's Wild Shape
+
+Gelvira will be able to choose 10 beasts within the restrictions (1/4 CR, no flying/swimming) that she "knows" for the purposes of wild shape. They should be reasonable considering her background and chosen druidic circle. She'll also get to choose 5 more at levels 4 and 8 when the restrictions change. Finally she can add creatures to this list by defeating (by combat or otherwise) them in an encounter or having at least a 5 minute period of time to study a calm creature.
+
+### Pets
+
+Pets (such as the flying snake and Tressym) will be non-combat by default and untargetable by typical NPCs. If they ever get used by PCs for combat this will be broken.
+
+## Developments
 
 Gelvira, Cretin, and Lustrum came to Nightstone for goblins, goblins, and an ancient tome. They met at the entrance of the seemingly deserted town as the town’s temple bell rang on and on. The investigated, killing the goblins ringing it. As they look around the town it is indeed deserted, with large stones littering the landscape, even having collapsed or holed many buildings. They also note a large 5ftx5ftx5ft hole in the centre of town.
 
