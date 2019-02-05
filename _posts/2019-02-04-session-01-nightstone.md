@@ -3,21 +3,7 @@ layout: post
 title: Session 01 - Nightstone
 published: true
 ---
-We played the first session of the new campaign tonight
-
-## Decrees
-
-### Revised Ranger
-
-Cretin is a [Revised Ranger](https://media.wizards.com/2016/dnd/downloads/UA_RevisedRanger.pdf) with everything that comes with that.
-
-### Druid's Wild Shape
-
-Gelvira will be able to choose 10 beasts within the restrictions (1/4 CR, no flying/swimming) that she "knows" for the purposes of wild shape. They should be reasonable considering her background and chosen druidic circle. She'll also get to choose 5 more at levels 4 and 8 when the restrictions change. Finally she can add creatures to this list by defeating (by combat or otherwise) them in an encounter or having at least a 5 minute period of time to study a calm creature.
-
-### Pets
-
-Pets (such as the flying snake and Tressym) will be non-combat by default and untargetable by typical NPCs. If they ever get used by PCs for combat this will be broken.
+We played the first session of the new campaign tonight! Here's what happened:
 
 ## Developments
 
@@ -36,3 +22,18 @@ Near to the (broken) bridge to the keep, the party finds a Tressym (winged cat) 
 * The guards want to fortify the town for the coming Zhentarim incursion and will not follow the party into the caves. They’ll gladly accept their help getting into the town however.
 
 The party gets to take a short rest in the keep before moving on and feels empowered after their experiences (they are now level 2!).
+
+## Decrees
+
+### Revised Ranger
+
+Cretin is a [Revised Ranger](https://media.wizards.com/2016/dnd/downloads/UA_RevisedRanger.pdf) with everything that comes with that.
+
+### Druid's Wild Shape
+
+Gelvira will be able to choose 10 beasts within the restrictions (1/4 CR, no flying/swimming) that she "knows" for the purposes of wild shape. They should be reasonable considering her background and chosen druidic circle. She'll also get to choose 5 more at levels 4 and 8 when the restrictions change. Finally she can add creatures to this list by defeating (by combat or otherwise) them in an encounter or having at least a 5 minute period of time to study a calm creature.
+
+### Pets
+
+Pets (such as the flying snake and Tressym) will be non-combat by default and untargetable by typical NPCs. If they ever get used by PCs for combat this will be broken.
+
