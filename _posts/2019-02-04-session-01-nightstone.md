@@ -37,3 +37,12 @@ Gelvira will be able to choose 10 beasts within the restrictions (1/4 CR, no fly
 
 Pets (such as the flying snake and Tressym) will be non-combat by default and untargetable by typical NPCs. If they ever get used by PCs for combat this will be broken.
 
+## Opportunity Attack Spells
+
+Although during the session we allowed an opportunity attack to include a spell cast, this turned out to be incorrect and going forward won't be allowed.
+
+## Area of Effect Spells
+
+We ruled this correctly, but I think it's good to note; unless otherwise specified a spell that affect to "all creatures" in an area will affect both player character and NPCs alike, regardless of alignment with the party.
+
+
