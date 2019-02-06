@@ -43,6 +43,6 @@ Although during the session we allowed an opportunity attack to include a spell 
 
 ## Area of Effect Spells
 
-We ruled this correctly, but I think it's good to note; unless otherwise specified a spell that affect to "all creatures" in an area will affect both player character and NPCs alike, regardless of alignment with the party.
+We ruled this correctly, but I think it's good to note; unless otherwise specified, a spell that affect to "all creatures" in an area will affect both player character and NPCs alike, regardless of alignment with the party.
 
 
